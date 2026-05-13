@@ -5,7 +5,7 @@ This is to demonstrate my efficiency with git and all the tools and resources I 
 
 below is the link to the program demo video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9mqPazo1gSs?si=ZjRFjaGYN0bvnpww).
 
 # Development Environment
 
@@ -13,4 +13,4 @@ This program was written in vscode with python.
 
 # Useful Websites
 
-{Did not use any websites.
+Did not use any websites.
